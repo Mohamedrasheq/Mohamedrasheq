@@ -21,11 +21,15 @@ A mobile AI task assistant (iOS & Android). You talk or type in plain language, 
 *Closed source. Demo and case study coming soon.*
 
 ### 🧰 Stack
-**Models:** OpenAI · Anthropic Claude · Gemini · Qwen · Llama  
-**LLM tooling:** Vercel AI SDK · LangChain · LlamaIndex · LangSmith · Arize · Mem0 · pgvector · vLLM · Ollama  
-**Voice & vision:** ElevenLabs · WebRTC · MediaPipe · YOLOv8 · OpenCV · TensorFlow.js  
-**Product:** Next.js · React · React Native (Expo) · TypeScript · Python · Supabase · Postgres · Tailwind · shadcn/ui  
-**Infra:** Vercel · Cloud Run · Cloudflare Workers · RunPod · Docker · GitHub Actions · Clerk · Sentry
+**Models:** OpenAI · Anthropic Claude · Gemini · Grok · Qwen · Llama  
+**LLM tooling:** Vercel AI SDK · LangChain · LlamaIndex · LlamaCloud · GroundX · LangSmith · Arize · Mem0 · Firecrawl · vLLM · Ollama  
+**Vector & data:** pgvector · Pinecone · Supabase · Postgres (Neon) · MongoDB · Prisma  
+**Voice & avatars:** Whisper · ElevenLabs · WebRTC · Anam.ai · D-ID · Synthesia  
+**Vision:** MediaPipe · YOLOv8 · BoxMOT · OpenCV · TensorFlow.js  
+**Frontend & mobile:** Next.js · React · React Native (Expo) · TypeScript · Tailwind · shadcn/ui · Three.js  
+**Backend:** Python (Flask, Django) · Node.js (Express)  
+**Infra & testing:** Vercel · AWS · Cloud Run · Cloudflare Workers · RunPod · Firebase · Docker · GitHub Actions · Clerk · Sentry · Playwright · Jest  
+**Payments & release:** Stripe · RevenueCat · Razorpay · Expo EAS
 
 ### ✍️ Writing & daily notes
 - **Blog:** coming soon. Longer write-ups on building with LLMs.
@@ -33,3 +37,4 @@ A mobile AI task assistant (iOS & Android). You talk or type in plain language, 
 
 ### 📌 Open-source projects
 Small, installable LLM tools are on the way: an eval-first RAG app, an MCP server, CLIs and more, plus contributions to the open-source AI tools I use every day. Pinned below as they ship.
+

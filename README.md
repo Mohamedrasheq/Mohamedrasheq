@@ -7,6 +7,21 @@ I build LLM agents end to end: context engineering, tool calling and MCP, retrie
 
 ---
 
+### 📝 Recently learned
+
+<!-- til starts -->
+- [Ignoring background noise and garbled speech before the agent replies](https://github.com/Mohamedrasheq/til/blob/main/voice/ignoring-noise-and-garbled-speech.md)
+- [Carrying per-user memory across voice sessions](https://github.com/Mohamedrasheq/til/blob/main/voice/per-user-memory-across-voice-sessions.md)
+- [Streaming STT and TTS so a voice agent doesn't pause mid-reply](https://github.com/Mohamedrasheq/til/blob/main/voice/streaming-stt-tts-without-gaps.md)
+- [Detecting key movement events from pose landmarks](https://github.com/Mohamedrasheq/til/blob/main/vision/detecting-events-from-pose-landmarks.md)
+- [Measuring joint angles from MediaPipe world landmarks](https://github.com/Mohamedrasheq/til/blob/main/vision/joint-angles-from-mediapipe.md)
+
+[all notes](https://github.com/Mohamedrasheq/til)
+<!-- til ends -->
+
+<!-- releases starts -->
+<!-- releases ends -->
+
 ### 🧠 What I work on
 - **Agents & tool calling**: 40+ LLM assistants and agents in production. Tool-calling agent loops, MCP integrations, multi-step actions with human confirmation, and computer-use agents on sandboxed desktops
 - **Grounded RAG & document AI**: hybrid and vector search, answers with server-checked citations, schema-checked extraction with confidence scores, and human review for uncertain fields
@@ -37,4 +52,3 @@ A mobile AI task assistant (iOS & Android). You talk or type in plain language, 
 
 ### 📌 Open-source projects
 Small, installable LLM tools are on the way: an eval-first RAG app, an MCP server, CLIs and more, plus contributions to the open-source AI tools I use every day. Pinned below as they ship.
-

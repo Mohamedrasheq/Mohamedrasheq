@@ -10,11 +10,11 @@ I build LLM agents end to end: context engineering, tool calling and MCP, retrie
 ### 📝 Recently learned
 
 <!-- til starts -->
-- [Ignoring background noise and garbled speech before the agent replies](https://github.com/Mohamedrasheq/til/blob/main/voice/ignoring-noise-and-garbled-speech.md)
-- [Carrying per-user memory across voice sessions](https://github.com/Mohamedrasheq/til/blob/main/voice/per-user-memory-across-voice-sessions.md)
-- [Streaming STT and TTS so a voice agent doesn't pause mid-reply](https://github.com/Mohamedrasheq/til/blob/main/voice/streaming-stt-tts-without-gaps.md)
-- [Detecting key movement events from pose landmarks](https://github.com/Mohamedrasheq/til/blob/main/vision/detecting-events-from-pose-landmarks.md)
-- [Measuring joint angles from MediaPipe world landmarks](https://github.com/Mohamedrasheq/til/blob/main/vision/joint-angles-from-mediapipe.md)
+- [Ignoring background noise and garbled speech before the agent replies](https://github.com/Mohamedrasheq/til/blob/main/voice/ignoring-noise-and-garbled-speech.md) - 2026-11-11
+- [Carrying per-user memory across voice sessions](https://github.com/Mohamedrasheq/til/blob/main/voice/per-user-memory-across-voice-sessions.md) - 2026-11-11
+- [Streaming STT and TTS so a voice agent doesn't pause mid-reply](https://github.com/Mohamedrasheq/til/blob/main/voice/streaming-stt-tts-without-gaps.md) - 2026-11-11
+- [Detecting key movement events from pose landmarks](https://github.com/Mohamedrasheq/til/blob/main/vision/detecting-events-from-pose-landmarks.md) - 2026-11-11
+- [Measuring joint angles from MediaPipe world landmarks](https://github.com/Mohamedrasheq/til/blob/main/vision/joint-angles-from-mediapipe.md) - 2026-11-11
 
 [all notes](https://github.com/Mohamedrasheq/til)
 <!-- til ends -->

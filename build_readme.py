@@ -152,7 +152,7 @@ def latest_commit_dates(paths: list[str]) -> dict[str, str]:
     return dates
 
 
-def recent_til_notes() -> list[tuple[str, str]]:
+def recent_til_notes() -> list[tuple[str, str, str]]:
     paths = note_paths()
     commit_dates = latest_commit_dates(paths)
     notes = []
@@ -165,11 +165,14 @@ def recent_til_notes() -> list[tuple[str, str]]:
     notes.sort(key=lambda n: n[2])
     notes.sort(key=lambda n: n[1], reverse=True)
     notes.sort(key=lambda n: n[0], reverse=True)
-    return [(title, path) for _key, _date, path, title in notes[:RECENT_COUNT]]
+    return [(title, path, date[:10]) for _key, date, path, title in notes[:RECENT_COUNT]]
 
 
-def render_til(notes: list[tuple[str, str]]) -> str:
-    lines = [f"- [{title}]({BLOB}/{path})" for title, path in notes]
+def render_til(notes: list[tuple[str, str, str]]) -> str:
+    lines = [
+        f"- [{title}]({BLOB}/{path})" + (f" - {date}" if date else "")
+        for title, path, date in notes
+    ]
     if lines:
         lines.append("")
     lines.append(f"[all notes](https://github.com/{OWNER}/{TIL_REPO})")

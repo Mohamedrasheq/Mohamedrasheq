@@ -23,16 +23,32 @@ I build LLM agents end to end: context engineering, tool calling and MCP, retrie
 <!-- releases ends -->
 
 ### 🧠 What I work on
-- **Agents**: 40+ LLM assistants in production, with tool calling, MCP, per-user memory and computer use
-- **Grounded RAG & extraction**: hybrid search, server-checked citations, schema-checked outputs
-- **Evals & self-hosting**: rule and rubric evals, tracing, open-weight models on vLLM and Ollama
-- **Voice & vision**: real-time voice agents, and pose tracking turned into LLM reports
+- **Agents & tool calling**: 40+ LLM assistants and agents in production. Tool-calling agent loops, MCP integrations, multi-step actions with human confirmation, and computer-use agents on sandboxed desktops
+- **Grounded RAG & document AI**: hybrid and vector search, answers with server-checked citations, schema-checked extraction with confidence scores, and human review for uncertain fields
+- **Evals & reliability**: rule-based and rubric-based evals, LLM tracing, and code checks that drop invented facts before users see them
+- **Self-hosted & private LLMs**: open-weight models (Qwen, Llama) on vLLM and Ollama, on scale-to-zero serverless GPU, matched against commercial models on evals
+- **Memory & self-improving agents**: per-user memory across sessions, and a reviewer agent that mines session data and opens validated pull requests
+- **Voice & multimodal**: real-time voice agents (streaming STT/TTS, WebRTC), live AI avatars, and two-pass multimodal pipelines over pages and images
+- **Vision + LLM**: pose estimation and multi-person tracking (MediaPipe, YOLOv8, OpenCV) turned into structured, safety-checked LLM reports
 
 ### 🚧 Building now
-A mobile AI task assistant. Talk or type, and the LLM turns it into structured actions that wait for your confirmation. *Closed source. Demo coming soon.*
+A mobile AI task assistant (iOS & Android). You talk or type in plain language, the LLM turns each message into structured actions, and code resolves the tasks and dates. It asks instead of guessing, and every change waits for your confirmation. Backed by 270+ unit tests and 68 eval cases.  
+*Closed source. Demo and case study coming soon.*
 
-### 🧰 Main tools
-Python · TypeScript · Next.js · React Native · Vercel AI SDK · LangChain · LlamaIndex · OpenAI · Claude · Gemini · vLLM · Ollama · pgvector · Supabase · Postgres
+### 🧰 Stack
+**Models:** OpenAI · Anthropic Claude · Gemini · Grok · Qwen · Llama  
+**LLM tooling:** Vercel AI SDK · LangChain · LlamaIndex · LlamaCloud · GroundX · LangSmith · Arize · Mem0 · Firecrawl · vLLM · Ollama  
+**Vector & data:** pgvector · Pinecone · Supabase · Postgres (Neon) · MongoDB · Prisma  
+**Voice & avatars:** Whisper · ElevenLabs · WebRTC · Anam.ai · D-ID · Synthesia  
+**Vision:** MediaPipe · YOLOv8 · BoxMOT · OpenCV · TensorFlow.js  
+**Frontend & mobile:** Next.js · React · React Native (Expo) · TypeScript · Tailwind · shadcn/ui · Three.js  
+**Backend:** Python (Flask, Django) · Node.js (Express)  
+**Infra & testing:** Vercel · AWS · Cloud Run · Cloudflare Workers · RunPod · Firebase · Docker · GitHub Actions · Clerk · Sentry · Playwright · Jest  
+**Payments & release:** Stripe · RevenueCat · Razorpay · Expo EAS
 
-### ✍️ Writing
-**[TIL](https://github.com/Mohamedrasheq/til):** short notes from building with LLMs · **Blog:** coming soon
+### ✍️ Writing & daily notes
+- **Blog:** coming soon. Longer write-ups on building with LLMs.
+- **[TIL (Today I Learned)](https://github.com/Mohamedrasheq/til):** short daily notes on agents, RAG, evals, MCP and self-hosting open models.
+
+### 📌 Open-source projects
+Small, installable LLM tools are on the way: an eval-first RAG app, an MCP server, CLIs and more, plus contributions to the open-source AI tools I use every day. Pinned below as they ship.

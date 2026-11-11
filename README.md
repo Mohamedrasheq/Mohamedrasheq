@@ -64,6 +64,3 @@ _Nothing released yet. First releases coming soon._
 ### ✍️ Writing & daily notes
 - **Blog:** coming soon. Longer write-ups on building with LLMs.
 - **[TIL (Today I Learned)](https://github.com/Mohamedrasheq/til):** short daily notes on agents, RAG, evals, MCP and self-hosting open models.
-
-### 📌 Open-source projects
-Small, installable LLM tools are on the way: an eval-first RAG app, an MCP server, CLIs and more, plus contributions to the open-source AI tools I use every day. Pinned below as they ship.

@@ -32,8 +32,12 @@ I build LLM agents end to end: context engineering, tool calling and MCP, retrie
 - **Vision + LLM**: pose estimation and multi-person tracking (MediaPipe, YOLOv8, OpenCV) turned into structured, safety-checked LLM reports
 
 ### 🚧 Building now
-A mobile AI task assistant (iOS & Android). You talk or type in plain language, the LLM turns each message into structured actions, and code resolves the tasks and dates. It asks instead of guessing, and every change waits for your confirmation. Backed by 270+ unit tests and 68 eval cases.  
-*Closed source. Demo and case study coming soon.*
+- **A mobile AI task assistant** (iOS & Android). You talk or type in plain language, the LLM turns each message into structured actions, and code resolves the tasks and dates. It asks instead of guessing, and every change waits for your confirmation. Backed by 270+ unit tests and 68 eval cases. *Closed source. Demo and case study coming soon.*
+- **[cite-check](https://github.com/Mohamedrasheq/cite-check)**: checks that every claim in a RAG answer is backed by the source it cites, and shows the proof. *Coming soon.*
+- **[mcp-pgvector](https://github.com/Mohamedrasheq/mcp-pgvector)**: an MCP server that gives Claude, Cursor or any MCP client hybrid (vector + keyword) search over your own Postgres tables. *Coming soon.*
+- **[expense-snap](https://github.com/Mohamedrasheq/expense-snap)**: snap a receipt and AI logs the amount, store and category, then shows where your money went. *Coming soon.*
+- **[mac-storage-guard](https://github.com/Mohamedrasheq/mac-storage-guard)**: a quiet macOS menu bar app that explains storage junk and cleans it safely. *Coming soon.*
+- **[scam-shield](https://github.com/Mohamedrasheq/scam-shield)**: a privacy-first browser extension that spots scam messages before you click, pay or reply. *Coming soon.*
 
 ### 🧰 Stack
 **Models:** OpenAI · Anthropic Claude · Gemini · Grok · Qwen · Llama  

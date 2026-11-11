@@ -201,8 +201,8 @@ def latest_releases() -> list[tuple[str, str, str, str]]:
 
 def render_releases(releases: list[tuple[str, str, str, str]]) -> str:
     if not releases:
-        return ""
-    lines = ["### 🚀 Recent releases", ""]
+        return "_Nothing released yet. First releases coming soon._"
+    lines = []
     for published, name, version, url in releases:
         suffix = f" - {published}" if published else ""
         lines.append(f"- [{name} {version}]({url}){suffix}")

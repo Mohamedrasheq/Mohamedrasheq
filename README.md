@@ -7,6 +7,9 @@ I build LLM agents end to end: context engineering, tool calling and MCP, retrie
 
 ---
 
+<table><tr>
+<td valign="top" width="50%">
+
 ### 📝 Recently learned
 
 <!-- til starts -->
@@ -19,8 +22,17 @@ I build LLM agents end to end: context engineering, tool calling and MCP, retrie
 [all notes](https://github.com/Mohamedrasheq/til)
 <!-- til ends -->
 
+</td>
+<td valign="top" width="50%">
+
+### 🚀 Recent releases
+
 <!-- releases starts -->
+_Nothing released yet. First releases coming soon._
 <!-- releases ends -->
+
+</td>
+</tr></table>
 
 ### 🧠 What I work on
 - **Agents & tool calling**: 40+ LLM assistants and agents in production. Tool-calling agent loops, MCP integrations, multi-step actions with human confirmation, and computer-use agents on sandboxed desktops

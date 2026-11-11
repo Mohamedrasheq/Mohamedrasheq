@@ -43,13 +43,6 @@ _Nothing released yet. First releases coming soon._
 - **Voice & multimodal**: real-time voice agents (streaming STT/TTS, WebRTC), live AI avatars, and two-pass multimodal pipelines over pages and images
 - **Vision + LLM**: pose estimation and multi-person tracking (MediaPipe, YOLOv8, OpenCV) turned into structured, safety-checked LLM reports
 
-### 🚧 Projects
-- **[cite-check](https://github.com/Mohamedrasheq/cite-check)**: checks that every claim in a RAG answer is backed by the source it cites, and shows the proof. *Coming soon.*
-- **[mcp-pgvector](https://github.com/Mohamedrasheq/mcp-pgvector)**: an MCP server that gives Claude, Cursor or any MCP client hybrid (vector + keyword) search over your own Postgres tables. *Coming soon.*
-- **[expense-snap](https://github.com/Mohamedrasheq/expense-snap)**: snap a receipt and AI logs the amount, store and category, then shows where your money went. *Coming soon.*
-- **[mac-storage-guard](https://github.com/Mohamedrasheq/mac-storage-guard)**: a quiet macOS menu bar app that explains storage junk and cleans it safely. *Coming soon.*
-- **[scam-shield](https://github.com/Mohamedrasheq/scam-shield)**: a privacy-first browser extension that spots scam messages before you click, pay or reply. *Coming soon.*
-
 ### 🧰 Stack
 **Models:** OpenAI · Anthropic Claude · Gemini · Grok · Qwen · Llama  
 **LLM tooling:** Vercel AI SDK · LangChain · LlamaIndex · LlamaCloud · GroundX · LangSmith · Arize · Mem0 · Firecrawl · vLLM · Ollama  

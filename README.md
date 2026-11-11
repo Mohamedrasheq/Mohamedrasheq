@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed Rasheq 👋
 
-**AI Product Engineer** · ~2 years shipping AI products from first requirement to production.  
-I build LLM agents end to end: context engineering, tool calling and MCP, retrieval, memory, evals and self-hosted models, plus the full-stack product around them.
+I build AI products end to end and share the useful parts as open source.  
+**AI Product Engineer** · ~2 years working on LLM agents, MCP, retrieval, memory, evals and self-hosted models. Here you'll find my tools, my experiments and what I learn along the way.
 
 📍 Trichy, India · [LinkedIn](https://www.linkedin.com/in/mohamedrasheq/) · [X](https://x.com/mohamedrasheq)
 

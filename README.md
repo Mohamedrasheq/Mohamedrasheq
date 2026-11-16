@@ -13,11 +13,11 @@ I build AI products end to end and share the useful parts as open source.
 ### 📝 Recently learned
 
 <!-- til starts -->
-- [Ignoring background noise and garbled speech before the agent replies](https://github.com/Mohamedrasheq/til/blob/main/voice/ignoring-noise-and-garbled-speech.md) - 2026-11-11
-- [Carrying per-user memory across voice sessions](https://github.com/Mohamedrasheq/til/blob/main/voice/per-user-memory-across-voice-sessions.md) - 2026-11-11
-- [Streaming STT and TTS so a voice agent doesn't pause mid-reply](https://github.com/Mohamedrasheq/til/blob/main/voice/streaming-stt-tts-without-gaps.md) - 2026-11-11
-- [Detecting key movement events from pose landmarks](https://github.com/Mohamedrasheq/til/blob/main/vision/detecting-events-from-pose-landmarks.md) - 2026-11-11
-- [Measuring joint angles from MediaPipe world landmarks](https://github.com/Mohamedrasheq/til/blob/main/vision/joint-angles-from-mediapipe.md) - 2026-11-11
+- [A fresh test set from a different AI showed my 99% was really 91%](https://github.com/Mohamedrasheq/til/blob/main/evals/a-fresh-test-set-from-a-different-ai.md) - 2026-11-16
+- [Using the model's own doubts to find wrong labels](https://github.com/Mohamedrasheq/til/blob/main/fine-tuning/finding-label-noise-with-the-model.md) - 2026-11-16
+- [Freezing the validation and test sets between training runs](https://github.com/Mohamedrasheq/til/blob/main/fine-tuning/freeze-val-and-test-between-runs.md) - 2026-11-16
+- [Masking links made my scam detector blind to fake domains](https://github.com/Mohamedrasheq/til/blob/main/fine-tuning/masking-can-hide-the-clue.md) - 2026-11-16
+- [Synthetic data teaches, real data judges](https://github.com/Mohamedrasheq/til/blob/main/fine-tuning/synthetic-data-for-training-only.md) - 2026-11-16
 
 [all notes](https://github.com/Mohamedrasheq/til)
 <!-- til ends -->

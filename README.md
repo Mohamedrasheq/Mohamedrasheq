@@ -28,7 +28,7 @@ I build AI products end to end and share the useful parts as open source.
 ### 🚀 Recent releases
 
 <!-- releases starts -->
-- [scam-shield v1.0.0](https://github.com/Mohamedrasheq/scam-shield/releases/tag/v1.0.0) - 2026-11-12
+- [scam-shield v1.1.0](https://github.com/Mohamedrasheq/scam-shield/releases/tag/v1.1.0) - 2026-11-16
 <!-- releases ends -->
 
 </td>

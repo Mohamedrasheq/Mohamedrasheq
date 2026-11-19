@@ -13,11 +13,11 @@ I build AI products end to end and share the useful parts as open source.
 ### 📝 Recently learned
 
 <!-- til starts -->
-- [A fresh test set from a different AI showed my 99% was really 91%](https://github.com/Mohamedrasheq/til/blob/main/evals/a-fresh-test-set-from-a-different-ai.md) - 2026-11-16
-- [Using the model's own doubts to find wrong labels](https://github.com/Mohamedrasheq/til/blob/main/fine-tuning/finding-label-noise-with-the-model.md) - 2026-11-16
-- [Freezing the validation and test sets between training runs](https://github.com/Mohamedrasheq/til/blob/main/fine-tuning/freeze-val-and-test-between-runs.md) - 2026-11-16
-- [Masking links made my scam detector blind to fake domains](https://github.com/Mohamedrasheq/til/blob/main/fine-tuning/masking-can-hide-the-clue.md) - 2026-11-16
-- [Synthetic data teaches, real data judges](https://github.com/Mohamedrasheq/til/blob/main/fine-tuning/synthetic-data-for-training-only.md) - 2026-11-16
+- [Choosing a BPE vocabulary size for a tiny dataset](https://github.com/Mohamedrasheq/til/blob/main/training/bpe-vocab-size-for-a-tiny-dataset.md) - 2026-11-19
+- [Keeping the best checkpoint, not the last one](https://github.com/Mohamedrasheq/til/blob/main/training/keep-the-best-checkpoint-not-the-last.md) - 2026-11-19
+- [Reading perplexity as "how many choices the model is torn between"](https://github.com/Mohamedrasheq/til/blob/main/training/perplexity-as-number-of-choices.md) - 2026-11-19
+- [Scoring the test set in one fixed pass, then explaining the gap](https://github.com/Mohamedrasheq/til/blob/main/training/score-the-test-set-in-one-fixed-pass.md) - 2026-11-19
+- [Splitting a text corpus by position, not by random lines](https://github.com/Mohamedrasheq/til/blob/main/training/split-a-text-corpus-by-position.md) - 2026-11-19
 
 [all notes](https://github.com/Mohamedrasheq/til)
 <!-- til ends -->

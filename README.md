@@ -35,6 +35,7 @@ I build AI products end to end and share the useful parts as open source.
 </tr></table>
 
 ### 🧠 What I work on
+- **Training & fine-tuning models**: GPT language models built and pre-trained from scratch (BPE tokenizers, attention, training loops, held-out test sets), and fine-tuned classifiers released on Hugging Face
 - **Agents & tool calling**: 40+ LLM assistants and agents in production. Tool-calling agent loops, MCP integrations, multi-step actions with human confirmation, and computer-use agents on sandboxed desktops
 - **Grounded RAG & document AI**: hybrid and vector search, answers with server-checked citations, schema-checked extraction with confidence scores, and human review for uncertain fields
 - **Evals & reliability**: rule-based and rubric-based evals, LLM tracing, and code checks that drop invented facts before users see them
@@ -56,4 +57,4 @@ I build AI products end to end and share the useful parts as open source.
 
 ### ✍️ Writing & daily notes
 - **Blog:** coming soon. Longer write-ups on building with LLMs.
-- **[TIL (Today I Learned)](https://github.com/Mohamedrasheq/til):** short daily notes on agents, RAG, evals, MCP and self-hosting open models.
+- **[TIL (Today I Learned)](https://github.com/Mohamedrasheq/til):** short daily notes on agents, RAG, evals, MCP, self-hosting open models, and training and fine-tuning models.

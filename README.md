@@ -13,11 +13,11 @@ I build AI products end to end and share the useful parts as open source.
 ### 📝 Recently learned
 
 <!-- til starts -->
-- [Choosing a BPE vocabulary size for a tiny dataset](https://github.com/Mohamedrasheq/til/blob/main/training/bpe-vocab-size-for-a-tiny-dataset.md) - 2026-11-19
-- [Keeping the best checkpoint, not the last one](https://github.com/Mohamedrasheq/til/blob/main/training/keep-the-best-checkpoint-not-the-last.md) - 2026-11-19
-- [Reading perplexity as "how many choices the model is torn between"](https://github.com/Mohamedrasheq/til/blob/main/training/perplexity-as-number-of-choices.md) - 2026-11-19
-- [Scoring the test set in one fixed pass, then explaining the gap](https://github.com/Mohamedrasheq/til/blob/main/training/score-the-test-set-in-one-fixed-pass.md) - 2026-11-19
-- [Splitting a text corpus by position, not by random lines](https://github.com/Mohamedrasheq/til/blob/main/training/split-a-text-corpus-by-position.md) - 2026-11-19
+- [One pass over a big dataset: train and val stay together](https://github.com/Mohamedrasheq/til/blob/main/training/one-pass-over-a-big-dataset.md) - 2026-11-20
+- [Choosing a BPE vocabulary size for a tiny dataset](https://github.com/Mohamedrasheq/til/blob/main/training/bpe-vocab-size-for-a-tiny-dataset.md) - 2026-11-20
+- [Learning and applying BPE on 2 GB of text in plain Python](https://github.com/Mohamedrasheq/til/blob/main/training/fast-bpe-on-gigabytes-in-plain-python.md) - 2026-11-20
+- [Keeping the best checkpoint, not the last one](https://github.com/Mohamedrasheq/til/blob/main/training/keep-the-best-checkpoint-not-the-last.md) - 2026-11-20
+- [Scoring the test set in one fixed pass, then explaining the gap](https://github.com/Mohamedrasheq/til/blob/main/training/score-the-test-set-in-one-fixed-pass.md) - 2026-11-20
 
 [all notes](https://github.com/Mohamedrasheq/til)
 <!-- til ends -->
@@ -28,6 +28,7 @@ I build AI products end to end and share the useful parts as open source.
 ### 🚀 Recent releases
 
 <!-- releases starts -->
+- [mini-gpt v1.0.0](https://github.com/Mohamedrasheq/mini-gpt/releases/tag/v1.0.0) - 2026-11-20
 - [scam-shield v1.1.0](https://github.com/Mohamedrasheq/scam-shield/releases/tag/v1.1.0) - 2026-11-16
 <!-- releases ends -->
 

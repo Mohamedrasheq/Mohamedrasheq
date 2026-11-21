@@ -1,7 +1,7 @@
 # Hi, I'm Mohamed Rasheq 👋
 
 I love building AI products end to end, and I share the useful parts as open source.  
-**AI Product Engineer** · I enjoy working on LLM agents, MCP tools, retrieval, memory, evals and self-hosted models, and lately I've been training language models from scratch. Here you'll find my tools, my experiments and what I learn along the way.
+**AI Product Engineer** · I enjoy working on LLM agents, MCP tools, retrieval, memory, evals, self-hosted models, and training and fine-tuning language models. Here you'll find my tools, my experiments and what I learn along the way.
 
 📍 Trichy, India · [LinkedIn](https://www.linkedin.com/in/mohamedrasheq/) · [X](https://x.com/mohamedrasheq)
 

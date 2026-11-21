@@ -13,11 +13,11 @@ I love building AI products end to end, and I share the useful parts as open sou
 ### 📝 Recently learned
 
 <!-- til starts -->
-- [One pass over a big dataset: train and val stay together](https://github.com/Mohamedrasheq/til/blob/main/training/one-pass-over-a-big-dataset.md) - 2026-11-20
-- [Choosing a BPE vocabulary size for a tiny dataset](https://github.com/Mohamedrasheq/til/blob/main/training/bpe-vocab-size-for-a-tiny-dataset.md) - 2026-11-20
-- [Learning and applying BPE on 2 GB of text in plain Python](https://github.com/Mohamedrasheq/til/blob/main/training/fast-bpe-on-gigabytes-in-plain-python.md) - 2026-11-20
-- [Keeping the best checkpoint, not the last one](https://github.com/Mohamedrasheq/til/blob/main/training/keep-the-best-checkpoint-not-the-last.md) - 2026-11-20
-- [Scoring the test set in one fixed pass, then explaining the gap](https://github.com/Mohamedrasheq/til/blob/main/training/score-the-test-set-in-one-fixed-pass.md) - 2026-11-20
+- [A training run on a cloud notebook that survives a disconnect](https://github.com/Mohamedrasheq/til/blob/main/training/resumable-training-on-a-cloud-notebook.md) - 2026-11-21
+- [A 10% share of the old data keeps the old skill](https://github.com/Mohamedrasheq/til/blob/main/training/small-share-of-old-data-keeps-a-skill.md) - 2026-11-21
+- [Comparing loss across models with different tokenizers](https://github.com/Mohamedrasheq/til/blob/main/evals/loss-per-character-across-tokenizers.md) - 2026-11-21
+- [Testing a language model's grammar with minimal pairs](https://github.com/Mohamedrasheq/til/blob/main/evals/minimal-pairs-grammar-test.md) - 2026-11-21
+- [Scoring a base model on multiple-choice tests without generating text](https://github.com/Mohamedrasheq/til/blob/main/evals/multiple-choice-by-log-prob.md) - 2026-11-21
 
 [all notes](https://github.com/Mohamedrasheq/til)
 <!-- til ends -->
@@ -28,7 +28,7 @@ I love building AI products end to end, and I share the useful parts as open sou
 ### 🚀 Recent releases
 
 <!-- releases starts -->
-- [mini-gpt v1.0.0](https://github.com/Mohamedrasheq/mini-gpt/releases/tag/v1.0.0) - 2026-11-20
+- [mini-gpt v2.0.0](https://github.com/Mohamedrasheq/mini-gpt/releases/tag/v2.0.0) - 2026-11-21
 - [scam-shield v1.1.0](https://github.com/Mohamedrasheq/scam-shield/releases/tag/v1.1.0) - 2026-11-16
 <!-- releases ends -->
 
